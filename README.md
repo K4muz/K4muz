@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Ana+Cristina.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hello%2C+everyone!+I'm+Kamus.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
 <img src="https://steamuserimages-a.akamaihd.net/ugc/83716862578182283/8D6E50C5B11E1237B9E7234FB39570A921747F5F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Pixel Art" align="right" width="200">
 
