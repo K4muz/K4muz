@@ -17,7 +17,7 @@
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/K4muz">
     <img height="195px" src="https://github-readme-stats.vercel.app/api?username=K4muz&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=K4muz"/>
+    <img height="195px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=K4muz&theme=one_dark_pro"/>
   </a>
 </div>
     
