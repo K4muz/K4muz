@@ -18,7 +18,7 @@
   <a href="https://github.com/K4muz">
     <img height="195px" src="https://github-readme-stats.vercel.app/api?username=K4muz&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
     <img height="195px" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)/>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K4muz)](https://github.com/K4muz/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K4muz&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true)](https://github.com/K4muz/github-readme-stats)
   </a>
 </div>
     
