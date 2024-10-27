@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/fb9576cd-81cc-4e61-8646-65d3a506f103" alt="Logo" align="center" width="1200" border-radious="20">
+<img src="https://github.com/user-attachments/assets/fb9576cd-81cc-4e61-8646-65d3a506f103" alt="Logo" align="center" width="1200" border-radius="10px">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hello%2C+everyone!+I'm+Kamus.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
