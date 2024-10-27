@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hello%2C+everyone!+I'm+Kamus.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
 <h1 align="center">Hello!, I'm Kamus</h1>
-<h3 align="center">"True art is only a reflection of the feelings of the beholder"</h3>
+<h3 align="center">"The true art is only a reflection of the feelings of the beholder"</h3>
 
 - 🌱 I’m currently learning **HTML, CSS and JS**
 
